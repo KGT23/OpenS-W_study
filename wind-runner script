@@ -58,3 +58,4 @@ OnTriggerEnter2D(): 충돌 및 트리거 처리
 
 Platform.cs
 요약: 발판으로서 필요한 동작을 담은 스크립트
+OnEnable(): 발판 리셋처리

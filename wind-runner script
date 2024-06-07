@@ -60,3 +60,4 @@ Platform.cs
 요약: 발판으로서 필요한 동작을 담은 스크립트
 OnEnable(): 발판 리셋처리
 OnCollisionEnter2D(): 발판을 밞았을 때 score 추가
+- 팀 프로젝트 완료 -
